@@ -51,8 +51,23 @@ July 13th: DRC SHOWS NO ERRORS!
 
 ---
 
-July 14th: PCB finished (knock on wood)
+July 14th: PCB finished
 - Time: 1 hour
 - Today I finished up the pcb design. I added a copper fill zone, edge cuts and realigned everything to match perfectly. Figuring out how to do copper fill zones for ground on the 2 internal pcb layers was actually a lot easier than I had thought. I had been pushing this to the end because I had no clue what the hell the tutorials were talking about so I just avoided it until today. Turns out its like 5 buttons to do. Oh well.
 
 <img width="931" height="376" alt="Screenshot 2025-07-15 at 3 21 15 PM" src="https://github.com/user-attachments/assets/e61271eb-f1c8-459f-8a66-3595598844c7" />
+
+---
+
+July 17th: created pcb plate
+- Time 3 hours
+- Today was spent mostly on learning the basics of Fusion. I watched many different tutorials on YouTube and using the sketch tool created a plate that I will use for my keyboard. This process was a bit annoying as I had learned that the pcb I had made had the keyswitch holes placed too close together so I had to go back and edit that.
+
+<img width="1667" height="1011" alt="image" src="https://github.com/user-attachments/assets/127bc78d-f44a-4655-9d5d-56db44eb73fa" />
+
+July 20th: Complete rough shape of keyboard
+- Time 4 hours
+- Today, using the tools that I had learned on the 17th, I created the housing for the keyboard. The bottom plate and side housing was quite simple to do. All I did was offset from the pcb and extrude upwards. However, for the top housing, I had to do a quite detailed sketch by measuing precisely the distance from the keyswitch cutouts in every direction. There was probably a much easier and cleaner way to do it but I am more than satisfied with the result that I've created.
+
+- <img width="1440" height="972" alt="image" src="https://github.com/user-attachments/assets/0742579e-7a98-43f2-ba82-49c8da32f392" />
+
