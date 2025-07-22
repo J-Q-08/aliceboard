@@ -65,9 +65,16 @@ July 17th: created pcb plate
 
 <img width="1667" height="1011" alt="image" src="https://github.com/user-attachments/assets/127bc78d-f44a-4655-9d5d-56db44eb73fa" />
 
+---
+
 July 20th: Complete rough shape of keyboard
 - Time 4 hours
 - Today, using the tools that I had learned on the 17th, I created the housing for the keyboard. The bottom plate and side housing was quite simple to do. All I did was offset from the pcb and extrude upwards. However, for the top housing, I had to do a quite detailed sketch by measuing precisely the distance from the keyswitch cutouts in every direction. There was probably a much easier and cleaner way to do it but I am more than satisfied with the result that I've created.
 
 - <img width="1440" height="972" alt="image" src="https://github.com/user-attachments/assets/0742579e-7a98-43f2-ba82-49c8da32f392" />
 
+---
+
+July 21th: Worked on 3d model
+- Time: 2 Hours
+- Today, I added cutouts for the usb-c port, as well as the rotary encoder. I also added threads for the screws to mount the plate and the case together. Most of the time was spent figuring out how to create the holes and how to line them up so that the threads were all oriented properly.
