@@ -78,3 +78,5 @@ July 20th: Complete rough shape of keyboard
 July 21th: Worked on 3d model
 - Time: 2 Hours
 - Today, I added cutouts for the usb-c port, as well as the rotary encoder. I also added threads for the screws to mount the plate and the case together. Most of the time was spent figuring out how to create the holes and how to line them up so that the threads were all oriented properly.
+
+<img width="1376" height="929" alt="Screenshot 2025-07-21 at 11 13 58 PM" src="https://github.com/user-attachments/assets/96f86939-525d-48d7-a855-ad26acf6e849" />
