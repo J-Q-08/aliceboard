@@ -1,4 +1,4 @@
-Total Time Spent: 31 hours
+Total Time Spent: 36 hours
 
 ---
 
@@ -91,3 +91,10 @@ July 23rd: Completion
 - Time: 2 hours
 - Today I finished compiling a firmware for the keyboard and added some finishing touches to the cad design like an indentation of my name on the underside of the keyboard for style. This concludes the designing portion of this journey and I am overall happy to have done this project up to now.
 <img width="770" height="738" alt="Screenshot 2025-07-23 at 10 33 58 PM" src="https://github.com/user-attachments/assets/4af2110e-c608-46d3-90fc-eb375319215f" />
+
+---
+
+July 24: Cleaning up
+- Time: 5 hours
+- Today was a complete mess. I thought I had completed everything I needed to yesterday until I got to the submitting part. Thats when I realized that my BOM was nowhere to be found and I hadn't yet looked at places to 3d print my files. A lot of the time spent was just looking for cheaper alternatives but my pcb just seems to want to be expensive. <img width="597" height="658" alt="Screenshot 2025-07-24 at 1 03 59 PM" src="https://github.com/user-attachments/assets/70cb1492-b7cf-424a-a18a-bc1dccb324cd" />
+
