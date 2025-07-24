@@ -1,3 +1,7 @@
+Total Time Spent: 31 hours
+
+---
+
 July 5th: Researching about custom keyboards
   - Time: 2 hours
 - Today was spent mostly investigating potential projects to work on. After looking at previous submissions, a keyboard seemed like something very intriguing. I watched a couple YouTube videos on what creating a custom keyboard would entail.
@@ -80,3 +84,10 @@ July 21th: Worked on 3d model
 - Today, I added cutouts for the usb-c port, as well as the rotary encoder. I also added threads for the screws to mount the plate and the case together. Most of the time was spent figuring out how to create the holes and how to line them up so that the threads were all oriented properly.
 
 <img width="1376" height="929" alt="Screenshot 2025-07-21 at 11 13 58 PM" src="https://github.com/user-attachments/assets/96f86939-525d-48d7-a855-ad26acf6e849" />
+
+---
+
+July 23rd: Completion
+- Time: 2 hours
+- Today I finished compiling a firmware for the keyboard and added some finishing touches to the cad design like an indentation of my name on the underside of the keyboard for style. This concludes the designing portion of this journey and I am overall happy to have done this project up to now.
+<img width="770" height="738" alt="Screenshot 2025-07-23 at 10 33 58 PM" src="https://github.com/user-attachments/assets/4af2110e-c608-46d3-90fc-eb375319215f" />
