@@ -1,3 +1,8 @@
+- author: Jeffrey Qi
+- description: A custom alice-style keyboard that includes a rotary encoder
+- created_at: 2025-07-5
+---
+
 Total Time Spent: 36 hours
 
 ---
