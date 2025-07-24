@@ -1,0 +1,13 @@
+{
+  "name": "Custom Alice Keyboard",
+  "layouts": {
+    "keymap": {
+      "layout": [
+        ["KC_ESC", "KC_2", "KC_MINUS", "...", "KC_BSPC"],
+        ["KC_GRV", "KC_1", "...", "KC_EQUAL", "KC_BSPC"],
+        // Fill rows with your keys based on your matrix mapping,
+        // with KC_NO in empty positions
+      ]
+    }
+  }
+}
