@@ -22,3 +22,19 @@ Pcb:
 - The pcb was created through Kicad looking like the following:
 
 <img width="1538" height="612" alt="image" src="https://github.com/user-attachments/assets/e4903fa6-ccbe-42ab-827d-38f5ed72b44e" />
+
+---
+
+| Part |Price |
+| --- | --- |
+|PCB & components| 80.27|
+|Keycaps|10|
+|switches|13.69|
+|ec11|2.76|
+|rotary knob|3.46|
+|top case|16.12|
+bottom case|47.61
+plate|18.03
+m3 screws|1.56
+
+*More detailed bom with links can be found in BOM.csv
