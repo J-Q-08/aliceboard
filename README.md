@@ -36,5 +36,5 @@ Pcb:
 bottom case|47.61
 plate|18.03
 m3 screws|1.56
+shipping |66.98
 
-*More detailed bom with links can be found in BOM.csv
