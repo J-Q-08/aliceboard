@@ -15,8 +15,10 @@ Layout:
 ---
 Case:
 - The case was created in a top mount style with 3 components: Plate, bottom piece, top piece. Complete it looks like the following:
+<img width="1749" height="1086" alt="Screenshot 2025-08-14 at 11 00 21 PM" src="https://github.com/user-attachments/assets/8a1ce771-9345-4316-a454-b475302a64da" />
+<img width="1719" height="1111" alt="Screenshot 2025-08-14 at 11 01 00 PM" src="https://github.com/user-attachments/assets/80ec8db1-8c72-4f46-b58b-28b0c7263ce4" />
 
-<img width="1376" height="929" alt="image" src="https://github.com/user-attachments/assets/3897ddc0-d7ae-4c57-b7a7-e1acbd2415a1" />
+
 ---
 Pcb:
 - The pcb was created through Kicad looking like the following:
