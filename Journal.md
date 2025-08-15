@@ -3,7 +3,7 @@
 - created_at: 2025-07-5
 ---
 
-Total Time Spent: 36 hours
+Total Time Spent: ~40 hours
 
 ---
 
@@ -103,3 +103,8 @@ July 24: Cleaning up
 - Time: 5 hours
 - Today was a complete mess. I thought I had completed everything I needed to yesterday until I got to the submitting part. Thats when I realized that my BOM was nowhere to be found and I hadn't yet looked at places to 3d print my files. A lot of the time spent was just looking for cheaper alternatives but my pcb just seems to want to be expensive. <img width="597" height="658" alt="Screenshot 2025-07-24 at 1 03 59 PM" src="https://github.com/user-attachments/assets/70cb1492-b7cf-424a-a18a-bc1dccb324cd" />
 
+---
+
+Aug 13: Editing after suggestsions :(
+- Time: 4 hours
+- Was suggested to add more stylizations towards the keyboard. I added an engraving of my signature underneath the keyboard, memento mori and carpe diem, two sayings that I'm quite fond of, and an hourglass underneath the rotary encoder as a constant reminder that everyone starts and ends in the same place. (Praying that this gets approved)
